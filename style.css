@@ -9,3 +9,16 @@ h2 {
  padding: 20px;
  margin: 20px 0 0 0;
 }
+
+
+div h1 {
+    background-color: brown;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+div h2 {
+    background-color: gold;
+    padding: 20px;
+    margin-top: -25px;
+}
